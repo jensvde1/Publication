@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+
+
+
+#header4-3 P {
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 21px;
+  color: #efefef;
+}
+#header4-3 H1 {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 60px;
+  color: #efefef;
+}
+#header4-3 SPAN {
+  font-family: 'Arimo', sans-serif;
+  font-size: 20px;
+}
