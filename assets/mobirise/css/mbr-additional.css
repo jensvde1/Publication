@@ -52,10 +52,10 @@
 #ext_menu-5 .mbr-navbar__items a {
   font-size: 12px;
 }
-#msg-box3-16 .mbr-header .mbr-header__text {
+#msg-box3-35 .mbr-header .mbr-header__text {
   text-align: center;
 }
-#msg-box3-16 .mbr-header .mbr-header__subtext {
+#msg-box3-35 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #ext_menu-5 .mbr-brand__name {
@@ -71,6 +71,12 @@
   font-size: 12px;
 }
 #header3-11 H3 {
+  text-align: center;
+}
+#msg-box3-37 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-37 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #ext_menu-5 .mbr-brand__name {
@@ -91,6 +97,12 @@
 #msg-box3-23 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+#msg-box3-38 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-38 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
 #ext_menu-5 .mbr-brand__name {
   font-size: 16px;
 }
@@ -107,6 +119,12 @@
   text-align: center;
 }
 #msg-box3-25 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-41 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-41 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #ext_menu-5 .mbr-brand__name {
@@ -126,4 +144,57 @@
 }
 #msg-box3-19 .mbr-header .mbr-header__subtext {
   text-align: center;
+}
+#msg-box3-42 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-42 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#ext_menu-5 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-5.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-5 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-5 .mbr-navbar__items a {
+  font-size: 12px;
+}
+#msg-box3-31 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #252525;
+}
+#msg-box3-31 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-31 .mbr-article LI {
+  text-align: center;
+}
+#msg-box3-31 .mbr-article P {
+  text-align: left;
+  font-size: 17px;
+}
+#ext_menu-5 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-5.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-5 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-5 .mbr-navbar__items a {
+  font-size: 12px;
+}
+#msg-box3-29 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-29 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#social-buttons2-32 .mbr-header__text {
+  text-align: right;
 }
